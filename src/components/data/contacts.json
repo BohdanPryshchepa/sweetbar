@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "src": "img/insta.svg",
+      "text": "You can write to our direct and we will help you to place an order🤗",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "src": "img/email.png",
+      "text": "You can write to our email address, we will answer you as soon as possible and place you order😃",
+      "href": "#"
+
+    },
+    {
+      "id": 3,
+      "src": "img/phone.svg",
+      "text": "You can call us and we will help you to place an order over the phone👌",
+      "href": "#"
+
+    }
+  ]
+  
